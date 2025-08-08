@@ -33,7 +33,7 @@ const App = () => {
     },
     keywords:
       "algorithms, data structures, visualization, sorting, dynamic programming, educational tool",
-    url: "https://algo-vision-flax.vercel.app/",
+    url: "https://algo-flow-app.vercel.app/",
     softwareVersion: "1.0.0",
   };
 
@@ -65,7 +65,7 @@ const App = () => {
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://algo-vision-flax.vercel.app/"
+          content="https://algo-flow-app.vercel.app/"
         />
         <meta property="og:image" content="/og-image.png" />
 
@@ -79,7 +79,7 @@ const App = () => {
         <meta name="twitter:image" content="/twitter-image.png" />
 
         {/* Canonical URL */}
-        <link rel="canonical" href="https://algo-vision-flax.vercel.app/" />
+        <link rel="canonical" href="https://algo-flow-app.vercel.app/" />
 
         <script type="application/ld+json">
           {JSON.stringify(structuredData)}
